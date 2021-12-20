@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "705138702446",
+    "firebase_url": "https://chatflutter-100a5-default-rtdb.firebaseio.com",
+    "project_id": "chatflutter-100a5",
+    "storage_bucket": "chatflutter-100a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705138702446:android:88fc62c3069a4be19c8e7f",
+        "android_client_info": {
+          "package_name": "dev.israeltavares.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705138702446-nqkg0hkjg9hsitk91ei6lh1njb31jec8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.israeltavares.chat_online",
+            "certificate_hash": "48fdbccfaaa35424442b4fbc25f65c86e3e422e4"
+          }
+        },
+        {
+          "client_id": "705138702446-lgrpjiqbne3vhubmvtqgmm8u2dr650f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEBT-ZPJp7SeDNHSYsDerAr5rYKlbmkTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705138702446-lgrpjiqbne3vhubmvtqgmm8u2dr650f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
